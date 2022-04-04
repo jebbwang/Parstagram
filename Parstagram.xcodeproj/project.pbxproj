@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D1DF2E427F7E813008CB54D /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1DF2E327F7E813008CB54D /* CommentCell.swift */; };
 		0DD47D8227ED85FE0083FC55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD47D8127ED85FE0083FC55 /* AppDelegate.swift */; };
 		0DD47D8427ED85FE0083FC55 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD47D8327ED85FE0083FC55 /* SceneDelegate.swift */; };
 		0DD47D8927ED85FE0083FC55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD47D8727ED85FE0083FC55 /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		0CD8A5E769ED8F3C89D00278 /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D1DF2E327F7E813008CB54D /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		0DD47D7E27ED85FE0083FC55 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DD47D8127ED85FE0083FC55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DD47D8327ED85FE0083FC55 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				0DD47D8127ED85FE0083FC55 /* AppDelegate.swift */,
 				0DD47D8327ED85FE0083FC55 /* SceneDelegate.swift */,
 				0DD47D8727ED85FE0083FC55 /* Main.storyboard */,
+				0D1DF2E327F7E813008CB54D /* CommentCell.swift */,
 				0DEBA31927ED938300282345 /* LoginViewController.swift */,
 				0DEBA31B27ED938E00282345 /* FeedViewController.swift */,
 				0DD47D8A27ED86000083FC55 /* Assets.xcassets */,
@@ -421,6 +424,7 @@
 				0DEBA31C27ED938E00282345 /* FeedViewController.swift in Sources */,
 				0DD47D8427ED85FE0083FC55 /* SceneDelegate.swift in Sources */,
 				0DEBA32127EE767F00282345 /* PostCell.swift in Sources */,
+				0D1DF2E427F7E813008CB54D /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
